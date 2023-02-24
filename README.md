@@ -63,9 +63,9 @@ Pour chaque problème de contraste identifié,
 documenter le problème par une capture-écran incluant dans son cadre, la zone fautive à gauche et à droite, les résultats détaillés de l’outil, tel que démontré dans l’exemple ci-dessous.
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
-- [Contraste insuffisant 1](images/...)
-- [Contraste insuffisant 2](images/...)
-- [Contraste insuffisant 3](images/...)
+- [Contraste insuffisant 1](images/2-contrastes-couleurs/Faute1_Contraste.png)[Résultats 1](images/2-contrastes-couleurs/App1_Contraste.png)
+- [Contraste insuffisant 2](images/2-contrastes-couleurs/Faute2_Contraste.png)[Résultats 2](images/2-contrastes-couleurs/App2_Contraste.png)
+- [Contraste insuffisant 3](images/2-contrastes-couleurs/Faute3_Contraste.png)[Résultats 3](images/2-contrastes-couleurs/App3_Contraste.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
