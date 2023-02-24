@@ -31,25 +31,25 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
-[capture-écran]()
+----- Ont retrouve des Alt pour chacun des produits
+----- Ont retrouve des Alt pour la navigation principal 
+----- Ont retrouve un Alt vide pour la navigation car elle est déja bien présenté
+[capture-écran](Sail_Alt.png)
 - https://amzn.to/2NnbKPN 
------
------
------
-[capture-écran]()
+----- Ont retrouve des Alt pour chacun des produits
+----- Ont retrouve un Alt vide pour la navigation car elle est déja bien présenté
+----- Cependant uniquement un Alt pour la navigation secondaire, Alors qu'elle est classé par sections ce qui peut être mêlant
+[capture-écran](Amazon_Alt2.png)
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran]()
+----- Ont retrouve aucun Alt (description)pour les images
+----- Ont retrouve des Alt bien détaillés pour la navigation principal 
+----- Aucun Alt pour les h1 , h2 ou h3 rendant la navigation difficile 
+[capture-écran](Soleil_Alt3.png)
 - https://www.rad.ca/  
------
------
------
-[capture-écran]()
+----- Pratiquement aucune précision (alt) sur aucune images ou liens
+----- Quelques Alt sur des icônes mal précisé
+----- Aucun Alt pour la navigation
+[capture-écran](Rad_Alt4.png)
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
