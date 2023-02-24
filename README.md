@@ -1,7 +1,7 @@
 # Exercice d'accessibilité des contenus
 
 ## Équipe
-- Prénom nom
+- Axel Roberge
 - Prénom nom
 
 ## Objectifs
