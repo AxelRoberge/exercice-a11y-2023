@@ -2,8 +2,6 @@
 
 ## Équipe
 - Axel Roberge
-- Prénom nom
-
 ## Objectifs
 - Expérimenter le versionnage de fichiers avec GIT
 - Acquérire des compétences en accessibilité des contenus
@@ -31,24 +29,24 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------ Ont retrouve des Alt pour chacun des produits
------ Ont retrouve des Alt pour la navigation principal 
------ Ont retrouve un Alt vide pour la navigation car elle est déja bien présenté
+- Ont retrouve des Alt pour chacun des produits
+- Ont retrouve des Alt pour la navigation principal 
+- Ont retrouve un Alt vide pour la navigation car elle est déja bien présenté
 [capture-écran](Sail_Alt.png)
 - https://amzn.to/2NnbKPN 
------ Ont retrouve des Alt pour chacun des produits
------ Ont retrouve un Alt vide pour la navigation car elle est déja bien présenté
------ Cependant uniquement un Alt pour la navigation secondaire, Alors qu'elle est classé par sections ce qui peut être mêlant
+- Ont retrouve des Alt pour chacun des produits
+- Ont retrouve un Alt vide pour la navigation car elle est déja bien présenté
+- Cependant uniquement un Alt pour la navigation secondaire, Alors qu'elle est classé par sections ce qui peut être mêlant
 [capture-écran](Amazon_Alt2.png)
 - https://www.lesoleil.com/  
------ Ont retrouve aucun Alt (description)pour les images
------ Ont retrouve des Alt bien détaillés pour la navigation principal 
------ Aucun Alt pour les h1 , h2 ou h3 rendant la navigation difficile 
+- Ont retrouve aucun Alt (description)pour les images
+- Ont retrouve des Alt bien détaillés pour la navigation principal 
+- Aucun Alt pour les h1 , h2 ou h3 rendant la navigation difficile 
 [capture-écran](Soleil_Alt3.png)
 - https://www.rad.ca/  
------ Pratiquement aucune précision (alt) sur aucune images ou liens
------ Quelques Alt sur des icônes mal précisé
------ Aucun Alt pour la navigation
+- Pratiquement aucune précision (alt) sur aucune images ou liens
+- Quelques Alt sur des icônes mal précisé
+- Aucun Alt pour la navigation
 [capture-écran](Rad_Alt4.png)
 
 Astuce  
@@ -81,10 +79,8 @@ __Tutoriel sur les formulaires du w3c__
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
-
-----
-----
-----
+- Sinon les autres headings sont correctement hiérarchisé
+- Le dernier h2 n'est pas neccesaire je l'aurais mis en h3, car sont importance est moindre et 
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -92,9 +88,9 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+- le h2 pour le résumé de l'article au début je ne l'aurai pas mis en h2 mais plutôt a balise normal donc "<.p>"
+- De plus nous n'avons pas de header pour les sous-article a la droite.
+-
 
 
 #### 3.2 S'exercer à bien structurer
@@ -103,7 +99,7 @@ Réponse :
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .psd ou .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- [Relier ce fichier-réponse ici](images/3-table-des-matieres_h1-h6/3-2/concevoir-un-design-sans-la-couleur.png)
 
 ### 4. Baliser un tableau de données pour qu’il soit accessible
 
